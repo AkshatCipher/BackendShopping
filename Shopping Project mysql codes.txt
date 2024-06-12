@@ -1,0 +1,17 @@
+create table Accounts(Username varchar(20) primary key, Password varchar(15) not null, Phone_Number numeric(10), Address varchar(50));
+
+
+Create table Products_Purchased(Product_Name varchar(60), Price int, Quantity numeric(5), Total_Price int, Purchase_Date datetime default now());
+
+
+Create table Cart(Product_Name varchar(60), Price int, Quantity numeric(5), Total_Price int);
+
+
+
+create table Admin(Username varchar(20) primary key, Password varchar(15) not null, Phone_Number numeric(10), Address varchar(50));
+
+
+
+
+
+
