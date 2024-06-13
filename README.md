@@ -13,4 +13,4 @@ The front used for making the software is Python and backend is MySQL. Tables ar
 created in MySQL and are linked with Python programs. Coding for various modules
 is done in Python.
 
-The structures of MySQL tables are:- 
+The structures of MySQL tables are:- https://github.com/AkshatCipher/BackendShopping/issues/1#issue-2351267851
